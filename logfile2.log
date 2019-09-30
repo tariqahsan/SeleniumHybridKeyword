@@ -1,0 +1,160 @@
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,791 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-09-22 04:07:57,793 INFO  [Log] Opening Browser 
+2014-09-22 04:08:05,443 INFO  [Log] Mozilla browser started 
+2014-09-22 04:08:05,472 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2019-09-27 22:12:30,405 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:12:30,406 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:12:30,406 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:12:30,406 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:12:30,406 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:12:30,407 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:12:30,408 INFO  [Log] Opening Browser 
+2019-09-27 22:12:30,540 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2019-09-27 22:12:30,540 INFO  [Log] Closing the browser 
+2019-09-27 22:12:30,540 ERROR [Log] Not able to Close the Browser --- null 
+2019-09-27 22:12:30,540 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-09-27 22:12:30,540 INFO  [Log] X 
+2019-09-27 22:12:30,540 INFO  [Log] X 
+2019-09-27 22:12:30,540 INFO  [Log] X 
+2019-09-27 22:12:30,540 INFO  [Log] X 
+2019-09-27 22:15:00,720 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:15:00,721 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:15:00,721 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:15:00,721 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:15:00,721 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:15:00,723 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:15:00,724 INFO  [Log] Opening Browser 
+2019-09-27 22:15:00,843 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2019-09-27 22:15:00,844 INFO  [Log] Closing the browser 
+2019-09-27 22:15:00,844 ERROR [Log] Not able to Close the Browser --- null 
+2019-09-27 22:15:00,844 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-09-27 22:15:00,844 INFO  [Log] X 
+2019-09-27 22:15:00,844 INFO  [Log] X 
+2019-09-27 22:15:00,844 INFO  [Log] X 
+2019-09-27 22:15:00,844 INFO  [Log] X 
+2019-09-27 22:15:38,951 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:15:38,952 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:15:38,952 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:15:38,952 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:15:38,952 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:15:38,953 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:15:38,954 INFO  [Log] Opening Browser 
+2019-09-27 22:15:39,077 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2019-09-27 22:15:39,077 INFO  [Log] Closing the browser 
+2019-09-27 22:15:39,077 ERROR [Log] Not able to Close the Browser --- null 
+2019-09-27 22:15:39,077 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-09-27 22:15:39,077 INFO  [Log] X 
+2019-09-27 22:15:39,077 INFO  [Log] X 
+2019-09-27 22:15:39,077 INFO  [Log] X 
+2019-09-27 22:15:39,077 INFO  [Log] X 
+2019-09-27 22:17:50,959 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:17:50,961 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:17:50,962 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:17:50,962 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:17:50,963 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:17:51,016 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:17:51,055 INFO  [Log] Opening Browser 
+2019-09-27 22:17:55,734 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2019-09-27 22:17:55,737 INFO  [Log] Closing the browser 
+2019-09-27 22:17:55,738 ERROR [Log] Not able to Close the Browser --- null 
+2019-09-27 22:17:55,740 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-09-27 22:17:55,741 INFO  [Log] X 
+2019-09-27 22:17:55,742 INFO  [Log] X 
+2019-09-27 22:17:55,742 INFO  [Log] X 
+2019-09-27 22:17:55,743 INFO  [Log] X 
+2019-09-27 22:20:39,302 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:20:39,303 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:20:39,305 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:20:39,307 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:20:39,307 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:20:39,346 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:29:52,861 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:29:52,862 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:29:52,863 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:29:52,864 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:29:52,864 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:29:52,895 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:31:10,343 INFO  [Log] Opening Browser 
+2019-09-27 22:35:56,382 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:35:56,383 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:35:56,384 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:35:56,385 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:35:56,386 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:35:56,420 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:36:45,601 INFO  [Log] Opening Browser 
+2019-09-27 22:37:02,848 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2019-09-27 22:37:19,916 INFO  [Log] Closing the browser 
+2019-09-27 22:37:19,919 ERROR [Log] Not able to Close the Browser --- null 
+2019-09-27 22:37:20,672 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-09-27 22:37:20,674 INFO  [Log] X 
+2019-09-27 22:37:20,675 INFO  [Log] X 
+2019-09-27 22:37:20,676 INFO  [Log] X 
+2019-09-27 22:37:20,677 INFO  [Log] X 
+2019-09-27 22:39:44,394 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:39:44,395 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:39:44,396 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:39:44,397 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:39:44,397 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:39:44,428 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:39:56,428 INFO  [Log] Opening Browser 
+2019-09-27 22:45:48,860 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:45:48,862 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:45:48,862 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:45:48,864 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:45:48,864 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:45:48,912 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:45:59,267 INFO  [Log] Opening Browser 
+2019-09-27 22:47:05,592 INFO  [Log] Not able to open the Browser --- newSession
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'LAPTOP-BD7JD39U', ip: '192.168.1.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: stack backtrace:
+   0:           0x4821c4 - <no info>
+   1:           0x482933 - <no info>
+   2:           0x445159 - <no info>
+   3:           0x44eff6 - <no info>
+   4:           0x4322e1 - <no info>
+   5:           0x40ba4e - <no info>
+   6:           0x4119b9 - <no info>
+   7:           0x6d2c89 - <no info>
+   8:           0x426006 - <no info>
+   9:           0x6cd490 - <no info>
+  10:     0x7ffd39397974 - BaseThreadInitThunk 
+2019-09-27 22:47:12,571 INFO  [Log] Closing the browser 
+2019-09-27 22:47:12,572 ERROR [Log] Not able to Close the Browser --- null 
+2019-09-27 22:47:17,126 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-09-27 22:47:17,127 INFO  [Log] X 
+2019-09-27 22:47:17,128 INFO  [Log] X 
+2019-09-27 22:47:17,128 INFO  [Log] X 
+2019-09-27 22:47:17,129 INFO  [Log] X 
+2019-09-27 22:49:56,268 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:49:56,269 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:49:56,270 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:49:56,270 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:49:56,271 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:49:56,302 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:50:02,601 INFO  [Log] Opening Browser 
+2019-09-27 22:57:28,240 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:57:28,240 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:57:28,240 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:57:28,241 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:57:28,241 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:57:28,242 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:57:28,243 INFO  [Log] Opening Browser 
+2019-09-27 22:57:28,243 INFO  [Log] Not able to open the Browser --- null 
+2019-09-27 22:57:28,243 INFO  [Log] Closing the browser 
+2019-09-27 22:57:28,243 ERROR [Log] Not able to Close the Browser --- null 
+2019-09-27 22:57:28,243 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-09-27 22:57:28,244 INFO  [Log] X 
+2019-09-27 22:57:28,244 INFO  [Log] X 
+2019-09-27 22:57:28,244 INFO  [Log] X 
+2019-09-27 22:57:28,244 INFO  [Log] X 

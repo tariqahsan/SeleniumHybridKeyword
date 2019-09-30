@@ -1,0 +1,60 @@
+2019-09-27 22:59:17,978 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:59:17,979 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:59:17,980 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-27 22:59:17,981 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:59:17,981 INFO  [Log] **************************************************************************************** 
+2019-09-27 22:59:18,019 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-27 22:59:20,497 INFO  [Log] Opening Browser 
+2019-09-27 23:00:00,223 INFO  [Log] Not able to open the Browser --- newSession
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'LAPTOP-BD7JD39U', ip: '192.168.1.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: stack backtrace:
+   0:           0x4821c4 - <no info>
+   1:           0x482933 - <no info>
+   2:           0x445159 - <no info>
+   3:           0x44eff6 - <no info>
+   4:           0x4322e1 - <no info>
+   5:           0x40ba4e - <no info>
+   6:           0x4119b9 - <no info>
+   7:           0x6d2c89 - <no info>
+   8:           0x426006 - <no info>
+   9:           0x6cd490 - <no info>
+  10:     0x7ffd39397974 - BaseThreadInitThunk 
+2019-09-27 23:00:06,872 INFO  [Log] Closing the browser 
+2019-09-27 23:00:06,874 ERROR [Log] Not able to Close the Browser --- null 
+2019-09-27 23:00:07,782 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-09-27 23:00:07,785 INFO  [Log] X 
+2019-09-27 23:00:07,786 INFO  [Log] X 
+2019-09-27 23:00:07,786 INFO  [Log] X 
+2019-09-27 23:00:07,787 INFO  [Log] X 
+2019-09-29 20:41:30,386 INFO  [Log] **************************************************************************************** 
+2019-09-29 20:41:30,387 INFO  [Log] **************************************************************************************** 
+2019-09-29 20:41:30,387 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-09-29 20:41:30,387 INFO  [Log] **************************************************************************************** 
+2019-09-29 20:41:30,387 INFO  [Log] **************************************************************************************** 
+2019-09-29 20:41:30,388 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2019-09-29 20:41:30,389 INFO  [Log] Opening Browser 
+2019-09-29 20:41:34,979 INFO  [Log] Not able to open the Browser --- newSession
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'LAPTOP-BD7JD39U', ip: '192.168.1.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: stack backtrace:
+   0:           0x4821c4 - <no info>
+   1:           0x482933 - <no info>
+   2:           0x445159 - <no info>
+   3:           0x44eff6 - <no info>
+   4:           0x4322e1 - <no info>
+   5:           0x40ba4e - <no info>
+   6:           0x4119b9 - <no info>
+   7:           0x6d2c89 - <no info>
+   8:           0x426006 - <no info>
+   9:           0x6cd490 - <no info>
+  10:     0x7fffc78c7974 - BaseThreadInitThunk 
+2019-09-29 20:41:34,979 INFO  [Log] Closing the browser 
+2019-09-29 20:41:34,979 ERROR [Log] Not able to Close the Browser --- null 
+2019-09-29 20:41:34,979 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-09-29 20:41:34,979 INFO  [Log] X 
+2019-09-29 20:41:34,979 INFO  [Log] X 
+2019-09-29 20:41:34,979 INFO  [Log] X 
+2019-09-29 20:41:34,979 INFO  [Log] X 
